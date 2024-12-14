@@ -18,12 +18,10 @@ OPENAI_API_KEY == < Your_OPENAI_API_KEY>
 
 
 ## 3. Set up a virtual environment:
-
 python -m venv venv
 venv\Scripts\activate  
 
-# # 4. Install the dependencies:
-
+## 4. Install the dependencies:
 pip install -r requirements.txt
 
 ## 5. Run evaluation.py file:
